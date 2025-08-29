@@ -1,29 +1,34 @@
-// md-loader.js
-(async function () {
-  // Carrega marked (CDN)
-  const s = document.createElement('script');
-  s.src = 'https://cdn.jsdelivr.net/npm/marked/marked.min.js';
-  document.head.appendChild(s);
-  await new Promise(r => s.onload = r);
+(function () {
+  let markedReady;
 
-  async function loadOne(el) {
-    const src = el.getAttribute('data-md-src');
-    try {
-      const resp = await fetch(src, { cache: 'no-store' });
-      if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
-      const md = await resp.text();
-      el.innerHTML = marked.parse(md);
-
-      // cria âncoras em h2/h3 para navegação
-      el.querySelectorAll('h2,h3').forEach(h => {
-        const id = h.textContent.trim().toLowerCase().replace(/[^\w]+/g, '-');
-        h.id = id;
+  function ensureMarked() {
+    if (!markedReady) {
+      markedReady = new Promise((resolve) => {
+        if (window.marked) return resolve();
+        const s = document.createElement('script');
+        s.src = 'https://cdn.jsdelivr.net/npm/marked/marked.min.js';
+        s.onload = resolve;
+        document.head.appendChild(s);
       });
-    } catch (e) {
-      el.innerHTML = `<div class="text-red-700">Falha ao carregar: ${src} (${e.message})</div>`;
     }
+    return markedReady;
   }
 
-  const containers = document.querySelectorAll('[data-md-src]');
-  for (const el of containers) await loadOne(el);
+  async function renderMarkdownContainers(root = document) {
+    await ensureMarked();
+    const nodes = root.querySelectorAll('[data-md-src]');
+    await Promise.all(Array.from(nodes).map(async (el) => {
+      const src = el.getAttribute('data-md-src');
+      try {
+        const resp = await fetch(src, { cache: 'no-store' });
+        if (!resp.ok) throw new Error(`HTTP ${resp.status} - ${src}`);
+        const md = await resp.text();
+        el.innerHTML = window.marked.parse(md);
+      } catch (e) {
+        el.innerHTML = `<div style="color:#b91c1c">Falha ao carregar: ${src} (${e.message})</div>`;
+      }
+    }));
+  }
+
+  window.renderMarkdownContainers = renderMarkdownContainers;
 })();
