@@ -78,6 +78,10 @@ document.addEventListener('DOMContentLoaded', () => {
             if (!response.ok) throw new Error(`Content not found for ${pageId}`);
             
             contentContainer.innerHTML = await response.text();
+
+            if (window.renderMarkdownContainers) {
+                window.renderMarkdownContainers(contentContainer);
+            }
             
             saveProgress(pageId);
             renderNav(pageId);
