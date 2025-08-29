@@ -78,6 +78,14 @@ document.addEventListener('DOMContentLoaded', () => {
             if (!response.ok) throw new Error(`Content not found for ${pageId}`);
             
             contentContainer.innerHTML = await response.text();
+
+            if (window.renderMarkdownContainers) {
+                try {
+                    await window.renderMarkdownContainers(contentContainer);
+                } catch (mdError) {
+                    console.error('Failed to render markdown:', mdError);
+                }
+            }
             
             saveProgress(pageId);
             renderNav(pageId);
@@ -85,7 +93,7 @@ document.addEventListener('DOMContentLoaded', () => {
             
         } catch (error) {
             console.error('Failed to load content:', error);
-            contentContainer.innerHTML = `<p class="p-8 text-red-500">Error loading content. Please check the console.</p>`;
+            contentContainer.innerHTML = `<p class="p-8 text-red-500">Error loading content: ${error.message}</p>`;
         }
     };
 
