@@ -1,0 +1,57 @@
+{
+    "sidebar_title": "FSA Level 1",
+    "sidebar_subtitle_p3": "Part 3: IFRS Standards",
+    "sidebar_subtitle_p4": "Part 4: Corporate Use",
+    "sidebar_tools": "Study Tools",
+    "translate_button": "Traduzir para Português",
+    "nav_home": "Home",
+    "nav_ch9": "Ch. 9: Useful Information",
+    "nav_ch10": "Ch. 10: The IFRS Standards",
+    "nav_ch11": "Ch. 11: The Process",
+    "nav_ch12": "Ch. 12: The Practice",
+    "nav_ch13": "Ch. 13: Case Studies",
+    "nav_ch14": "Ch. 14: Corporate Use",
+    "nav_flashcards": "Flashcards",
+    "nav_quiz": "Mock Exam",
+
+    "welcome_title": "Welcome to your FSA Intensive Prep Course!",
+    "welcome_p1": "This in-depth course is designed to optimize your studies for the FSA Level 1 certification, focusing entirely on Part 3 of the guide. Each section has been crafted from the materials you provided, ensuring depth and relevance.",
+    "welcome_p2": "Use this material not only to prepare for the exam but also as a solid and detailed foundation for your presentation on IFRS S1 and S2 to the EnvironPact team. Let's get started!",
+
+    "ch14_title": "Chapter 14: Considerations for Corporate Use",
+    "ch14_intro": "[EN] For preparers, generating and using sustainability information necessitates robust and integrated internal processes. This chapter explores the cross-functional nature of preparing sustainability disclosures, the stages of the disclosure process, and the influence of governance in ensuring the reliability of the information.",
+    "ch14_lo_title": "[EN] Learning Objectives covered:",
+    "ch14_lo1": "[EN] Recognize the cross-functional nature of preparing sustainability disclosures.",
+    "ch14_lo2": "[EN] Distinguish the stages of sustainability disclosure.",
+    "ch14_lo3": "[EN] Identify the influence of board governance, internal controls and third-party assurance on the reliability of sustainability information.",
+    "ch14_lo4": "[EN] Recognize the role of sustainability management in corporate strategy and risk management.",
+    
+    "ch14_sec1_title": "[EN] 14.1. The Cross-Functional Nature and Roles Involved",
+    "ch14_sec1_p1": "[EN] To effectively communicate sustainability-related risks and opportunities to investors, companies need a diverse set of internal stakeholders at the table, far beyond the traditional finance team. Each role brings a vital perspective.",
+    
+    "ch14_role1_title": "[EN] Board of Directors",
+    "ch14_role1_li1": "[EN] Oversee strategy and risk management, including how sustainability-related risks and opportunities impact an organization's business model and value chain.",
+    "ch14_role1_li2": "[EN] Oversee reporting, including assessing adequacy of financial statements and sustainability-related financial disclosures.",
+    
+    "ch14_role2_title": "[EN] CEO and CFO",
+    "ch14_role2_li1": "[EN] Provide perspective on the materiality of sustainability information, important metrics, and how sustainability-related risks and opportunities should be managed.",
+    "ch14_role2_li2": "[EN] Certify the accuracy and completeness of internal controls and disclosure controls.",
+
+    "ch14_role3_title": "[EN] Legal Counsel",
+    "ch14_role3_p1": "[EN] Provide perspective on the legal risks related to the omission or inclusion of information in public documents and advise on how to adhere to existing and emerging regulatory requirements.",
+
+    "ch14_role4_title": "[EN] Chief Sustainability Officer",
+    "ch14_role4_li1": "[EN] Provide perspective on the ways sustainability-related risks and opportunities impact a firm's business model and value chain.",
+    "ch14_role4_li2": "[EN] Oversee best practices for disclosure and stay abreast of evolving disclosure requirements.",
+
+    "ch14_sec2_title": "[EN] 14.2. Preparing for Disclosure",
+    "ch14_sec2_p1": "[EN] Companies at the beginning of the reporting cycle or those preparing sustainability-related financial disclosure for the first time can benefit from four key preparatory steps:",
+    "ch14_sec2_sub1_title": "[EN] Understanding the Value Chain",
+    "ch14_sec2_sub1_p1": "[EN] Analyzing the full value chain (from conception to end-of-life) enables the company to identify where sustainability-related risks and opportunities have the greatest impact.",
+    "ch14_sec2_sub2_title": "[EN] Understanding the Reporting Environment",
+    "ch14_sec2_sub2_p1": "[EN] Observing industry peers and market trends (investors, regulators) helps shape decisions about how, when, and where to disclose information.",
+    "ch14_sec2_sub3_title": "[EN] Creating Organizational Buy-In",
+    "ch14_sec2_sub3_p1": "[EN] Success depends on leadership support ('tone from the top') that prioritizes sustainability and a culture that values transparency and collaboration.",
+    "ch14_sec2_sub4_title": "[EN] Evaluating Audience Needs",
+    "ch14_sec2_sub4_p1": "[EN] Communication is most effective when tailored to its primary users. Engaging with investors to understand their priorities is key to improving disclosure efficacy."
+}

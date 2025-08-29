@@ -1,0 +1,52 @@
+{
+    "nav_ch13": "Cap. 13: Estudos de Caso",
+    "ch13_title": "Capítulo 13: Como a Demanda dos Investidores Transforma as Práticas Corporativas",
+    "ch13_intro": "Este capítulo apresenta estudos de caso reais que demonstram como a crescente demanda dos investidores por informações de sustentabilidade está revolucionando as práticas de divulgação corporativa e gestão de performance. Baseado no Learning Objective 12 do FSA.",
+    
+    "ch13_sec1_title": "13.1. A Revolução dos Investidores",
+    "ch13_sec1_p1": "O que começou como uma prática de nicho entre investidores socialmente responsáveis agora se tornou mainstream. Pesquisas mostram uma relação positiva entre sustentabilidade, redução de riscos e retornos financeiros, criando um cenário onde 'valor' e 'valores' têm uma relação direta e positiva.",
+    "ch13_sec1_box_title": "Sinais da Mudança no Mercado:",
+    "ch13_sec1_li1": "<strong>FTSE Russell:</strong> Mais de 50% dos proprietários de ativos estão implementando ou avaliando ESG em suas estratégias de investimento",
+    "ch13_sec1_li2": "<strong>Coalizão Global:</strong> 631 investidores representando US$ 37 trilhões em AUM apoiaram o Acordo de Paris",
+    "ch13_sec1_li3": "<strong>Pesquisa de Crédito:</strong> 83% dos analistas de crédito dizem que fatores ESG são integrais ao que fazem",
+    
+    "ch13_sec2_title": "13.2. O Impacto dos Fundos de Índice",
+    "ch13_sec2_p1": "O crescimento dos fundos passivos está transformando a relação investidor-empresa. Em 2019, fundos passivos (incluindo ETFs) ultrapassaram fundos ativos e agora representam quase 50% das ações americanas.",
+    "ch13_sec2_p2": "Quando investido em um índice, a opção de 'cherry-pick' desaparece. Os investidores perdem a opção de responder diretamente às empresas vendendo suas ações, mas ganham incentivos para trabalhar com as empresas para atingir objetivos comuns de performance.",
+    "ch13_sec2_insight_title": "Insight-chave:",
+    "ch13_sec2_insight_text": "A mudança para estratégias de investimento passivo pode encorajar a administração de investimentos com foco em horizontes de investimento de longo prazo e estratégias de negócio sustentáveis.",
+    
+    "ch13_sec3_title": "13.3. Movimento Global de Stewardship",
+    "ch13_sec3_p1": "Os códigos de stewardship foram introduzidos pela primeira vez em 2010 no Reino Unido, formalizando expectativas aprimoradas do papel dos investidores na governança corporativa. Baseiam-se na lógica do dever fiduciário e oferecem princípios que os investidores podem aplicar às suas atividades de stewardship corporativo.",
+    "ch13_sec3_uk2012_title": "Reino Unido 2012",
+    "ch13_sec3_uk2012_text": "Stewardship definido como 'monitoramento e engajamento com empresas em questões como estratégia, performance, risco, estrutura de capital e governança corporativa'",
+    "ch13_sec3_uk2020_title": "Reino Unido 2020 (Revisado)",
+    "ch13_sec3_uk2020_text": "Stewardship redefinido como 'alocação, gestão e supervisão responsável de capital para criar valor de longo prazo, levando a benefícios sustentáveis para a economia, meio ambiente e sociedade'",
+    
+    "ch13_sec4_title": "13.4. Caso BlackRock: Accountability através de Proxy Voting",
+    "ch13_sec4_p1": "Em 2020, a BlackRock, maior gestora de ativos institucional do mundo, anunciou que 'responsabilizará membros do conselho' onde as empresas não estiverem produzindo divulgações eficazes de sustentabilidade ou implementando estruturas para gestão de questões de sustentabilidade.",
+    "ch13_sec4_p2": "Antes mesmo do anúncio, a BlackRock já demonstrava mudança comportamental significativa em suas práticas de votação.",
+    "ch13_sec4_p3": "Embora alguns questionem a agressividade das decisões de voto da BlackRock, declarações bem divulgadas dos maiores gestores de ativos institucionais representam uma mudança altamente visível no comportamento de engajamento corporativo em questões de sustentabilidade.",
+    "ch13_sec4_stats_title": "Números da BlackRock em 2020:",
+    "ch13_sec4_stat1": "• 5.100 diretores receberam votos contrários ou abstenções",
+    "ch13_sec4_stat2": "• 53 diretores especificamente por 'progresso insuficiente na integração do risco climático'",
+    "ch13_sec4_stat3": "• Mudança significativa comparada aos anos anteriores",
+    
+    "ch13_sec5_title": "13.5. Caso Green Century e Tyson Foods: Colaboração que Funciona",
+    "ch13_sec5_p1": "A Green Century Capital Management apresentou uma proposta de acionista à Tyson Foods, uma das maiores processadoras globais de carne, solicitando a divulgação de uma política adequada de desmatamento, considerando a 'expansão da empresa em mercados internacionais, incluindo Brasil, China e Sudeste Asiático'.",
+    "ch13_sec5_p2": "Em resposta à resolução e após negociações com investidores, a Tyson se comprometeu publicamente a 'reportar sobre a rastreabilidade e sustentabilidade de commodities de risco florestal em sua cadeia de suprimentos global' e 'desenvolver e implementar uma política florestal que aborde No Deforestation, No Peat, No Exploitation (NDPE)'.",
+    "ch13_sec5_p3": "Satisfeita com a resposta da Tyson, a Green Century retirou sua resolução. Este caso exemplifica como empresas e investidores podem trabalhar juntos para encontrar soluções em questões de sustentabilidade.",
+    "ch13_sec5_lesson_title": "Lição Aprendida:",
+    "ch13_sec5_lesson_text": "Taxas de retirada de resoluções atingem níveis recordes, demonstrando maior disposição de empresas e investidores trabalharem juntos - em 2018, 48% das propostas ambientais e sociais foram retiradas, enquanto apenas 37% foram votadas.",
+    
+    "ch13_sec6_title": "13.6. Tendências Revolucionárias de Votação",
+    "ch13_sec6_p1": "Uma análise baseada em 516.788 votos em 1.033 resoluções ambientais e sociais individuais por mais de 2.000 fundos oferecidos em 52 grupos de fundos americanos revelou mudanças dramáticas no comportamento de votação.",
+    "ch13_sec6_data_title": "Dados que Demonstram a Revolução:",
+    "ch13_sec6_data1": "• Apoio de gestores de ativos a resoluções ESG subiu de 27% em 2015 para 46% em 2019",
+    "ch13_sec6_data2": "• Votos de 'abstenção' atingiram mínima histórica, chegando a 0,3% em 2018",
+    "ch13_sec6_data3": "• Mais investidores estão 'deixando a arquibancada' para expressar opiniões sobre questões de sustentabilidade",
+    
+    "ch13_conclusion_title": "Conclusões dos Estudos de Caso",
+    "ch13_conclusion_p1": "Os casos apresentados demonstram que a demanda por informações de sustentabilidade não é apenas uma tendência passageira, mas uma transformação fundamental na forma como os mercados de capital operam.",
+    "ch13_conclusion_p2": "Para as empresas, isso significa que práticas robustas de divulgação de sustentabilidade não são mais opcionais - elas são essenciais para manter o acesso ao capital e construir relacionamentos duradouros com investidores."
+}

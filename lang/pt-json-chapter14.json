@@ -1,0 +1,43 @@
+{
+    "sidebar_subtitle_p3": "Parte 3: Normas IFRS",
+    "sidebar_subtitle_p4": "Parte 4: Uso Corporativo",
+    "sidebar_tools": "Ferramentas de Estudo",
+    "nav_ch14": "Cap. 14: Uso Corporativo",
+
+    "ch14_title": "Capítulo 14: Considerações para Uso Corporativo",
+    "ch14_intro": "Para os preparadores de relatórios, gerar e usar informações de sustentabilidade exige processos internos robustos e integrados. Este capítulo explora a natureza multifuncional da preparação de divulgações de sustentabilidade, as etapas do processo e a influência da governança para garantir a confiabilidade da informação.",
+    "ch14_lo_title": "Learning Objectives abordados:",
+    "ch14_lo1": "Reconhecer a natureza multifuncional da preparação de divulgações de sustentabilidade.",
+    "ch14_lo2": "Distinguir as etapas da divulgação de sustentabilidade.",
+    "ch14_lo3": "Identificar a influência da governança do conselho, controles internos e assurance de terceiros na confiabilidade da informação.",
+    "ch14_lo4": "Reconhecer o papel da gestão da sustentabilidade na estratégia corporativa e gestão de riscos.",
+    
+    "ch14_sec1_title": "14.1. A Natureza Multifuncional e os Cargos Envolvidos",
+    "ch14_sec1_p1": "Para comunicar eficazmente os riscos e oportunidades de sustentabilidade aos investidores, as empresas precisam de um conjunto diversificado de stakeholders internos, muito além da equipe financeira tradicional. Cada função traz uma perspectiva vital.",
+    
+    "ch14_role1_title": "Conselho de Administração (Board of Directors)",
+    "ch14_role1_li1": "Supervisiona a estratégia e a gestão de riscos, incluindo como os temas de sustentabilidade impactam o modelo de negócio e a cadeia de valor.",
+    "ch14_role1_li2": "Avalia a adequação das demonstrações financeiras e das divulgações de sustentabilidade.",
+    
+    "ch14_role2_title": "CEO e CFO",
+    "ch14_role2_li1": "Fornecem perspectiva sobre a materialidade das informações, métricas importantes e como os riscos e oportunidades de sustentabilidade devem ser gerenciados.",
+    "ch14_role2_li2": "Certificam a precisão e a integridade dos controles internos e de divulgação.",
+
+    "ch14_role3_title": "Consultoria Jurídica (Legal Counsel)",
+    "ch14_role3_p1": "Avalia os riscos legais relacionados à omissão ou inclusão de informações em documentos públicos e aconselha sobre como aderir aos requisitos regulatórios existentes e emergentes.",
+
+    "ch14_role4_title": "Diretor de Sustentabilidade (Chief Sustainability Officer)",
+    "ch14_role4_li1": "Oferece perspectiva sobre como os riscos e oportunidades de sustentabilidade impactam a cadeia de valor e o modelo de negócio.",
+    "ch14_role4_li2": "Supervisiona as melhores práticas de divulgação e se mantém atualizado sobre a evolução dos requisitos.",
+
+    "ch14_sec2_title": "14.2. Preparando para a Divulgação",
+    "ch14_sec2_p1": "Empresas que estão iniciando seu ciclo de relatórios ou divulgando informações financeiras relacionadas à sustentabilidade pela primeira vez podem se beneficiar de quatro etapas preparatórias essenciais:",
+    "ch14_sec2_sub1_title": "Entender a Cadeia de Valor",
+    "ch14_sec2_sub1_p1": "Analisar a cadeia de valor completa (da concepção ao fim da vida do produto) permite que a empresa identifique onde os riscos e oportunidades de sustentabilidade têm maior impacto.",
+    "ch14_sec2_sub2_title": "Entender o Ambiente de Relatórios",
+    "ch14_sec2_sub2_p1": "Observar os pares da indústria e as tendências de mercado (investidores, reguladores) ajuda a moldar as decisões sobre como, quando e onde divulgar as informações.",
+    "ch14_sec2_sub3_title": "Criar 'Buy-In' Organizacional",
+    "ch14_sec2_sub3_p1": "O sucesso depende do apoio da liderança ('tone from the top'), que deve priorizar a sustentabilidade, e de uma cultura que valorize a transparência e a colaboração.",
+    "ch14_sec2_sub4_title": "Avaliar as Necessidades da Audiência",
+    "ch14_sec2_sub4_p1": "A comunicação é mais eficaz quando adaptada aos usuários principais. O engajamento com investidores para entender suas prioridades é fundamental para melhorar a eficácia da divulgação."
+}
